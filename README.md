@@ -1,4 +1,4 @@
 # My Website
 
 Hello there! I'm Lisa.
-If you'd like to learn more about me, check out my website. 
+If you'd like to learn more about me and my career in web development, check out my website. 

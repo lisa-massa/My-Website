@@ -28,6 +28,11 @@ h2 {
     font-size: 3em;
 }
 
+#about, #skills1, #skills2 {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
 .portrait {
     width: 375px;
     height: 375px;
